@@ -2,6 +2,6 @@
 
 Who doesn't remember this classic arcade game??
 
-## Instructions
+### Instructions
 
 The paddle will simply follow the mouse. Enjoy!
